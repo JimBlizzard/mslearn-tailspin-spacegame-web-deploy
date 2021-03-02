@@ -18,3 +18,7 @@ tailspin-space-game-web-dev-20131.azurewebsites.net      Running
 tailspin-space-game-web-test-20131.azurewebsites.net     Running
 tailspin-space-game-web-staging-20131.azurewebsites.net  Running
 ```
+
+The swap slot
+`tailspin-space-game-web-staging-20131-swap.azurewebsites.net`
+
